@@ -1,3 +1,7 @@
+## 🙏 Acknowledgements / Credits
+- Special thanks and full credit to **[@MLuc24](https://github.com/MLuc24)** for the original repository [**`lien-quan-data`**](https://github.com/MLuc24/lien-quan-data). This project is inspired by and built upon their fantastic foundational work for the Arena of Valor community.
+---
+
 # lien-quan-data
 
 Open, machine-readable data for **Arena of Valor / Liên Quân Mobile** — heroes, items, arcana (runes), summoner spells, badges and game modes, as plain JSON. No API key, no rate limit, no scraping on your side.
